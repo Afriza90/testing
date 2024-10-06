@@ -1,0 +1,10 @@
+C:/dryflut/midterm/build/windows/x64/runner/Debug/data/icudtl.dat
+C:/dryflut/midterm/build/windows/x64/runner/Debug/flutter_windows.dll
+C:/dryflut/midterm/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.bin
+C:/dryflut/midterm/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/dryflut/midterm/build/windows/x64/runner/Debug/data/flutter_assets/assets/images/profile.jpg
+C:/dryflut/midterm/build/windows/x64/runner/Debug/data/flutter_assets/FontManifest.json
+C:/dryflut/midterm/build/windows/x64/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/dryflut/midterm/build/windows/x64/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/dryflut/midterm/build/windows/x64/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/dryflut/midterm/build/windows/x64/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

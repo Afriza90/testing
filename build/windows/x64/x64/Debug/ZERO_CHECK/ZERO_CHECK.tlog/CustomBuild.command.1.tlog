@@ -1,0 +1,10 @@
+^C:\DRYFLUT\MIDTERM\BUILD\WINDOWS\X64\CMAKEFILES\1E06B50C65F12D45961B2D08FB24764D\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/dryflut/midterm/windows -BC:/dryflut/midterm/build/windows/x64 --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/dryflut/midterm/build/windows/x64/midterm.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
